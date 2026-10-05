@@ -33,6 +33,6 @@
 <a href="https://github.com/trannam1304/Smart-Campus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=trannam1304&repo=Smart-Campus" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/repo-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trannam1304&repo=repo-2" />
+<a href="https://github.com/YOUR_USERNAME/data-analysis-us-accidents-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trannam1304&repo=data-analysis-us-accidents-project" />
 </a>
