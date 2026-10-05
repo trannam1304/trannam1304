@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7387E&center=true&vCenter=true&width=435&lines=Hello!+I'm+YourName;I+love+open+source+:)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7387E&center=true&vCenter=true&width=435&lines=Hello!+I'm+HUWXNOOM;I+love+open+source+:)" alt="Typing SVG" />
 
 </div>
 
@@ -30,8 +30,8 @@
 
 ## Top Repositories
 
-<a href="https://github.com/trannam1304/repo-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trannam1304&repo=repo-1" />
+<a href="https://github.com/trannam1304/Smart-Campus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trannam1304&repo=Smart-Campus" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/repo-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=trannam1304&repo=repo-2" />
