@@ -7,6 +7,7 @@
 "Hi, I'm Nam! I am a Software Engineer passionate about Generative AI, Retrieval-Augmented Generation (RAG), and building scalable AI-powered applications. My core interests lie in LLM orchestration, semantic search, and agentic workflows
 
 ## About me
+My portfolio: [https://trannam1304.github.io/Porfolio/](url)
 
 - 💼 Software Engineer
 - 💖 I love writing TypeScript and building fun experiments
