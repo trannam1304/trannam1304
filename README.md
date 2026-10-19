@@ -13,10 +13,6 @@ My portfolio: [https://trannam1304.github.io/Porfolio/](url)
 - 💖 I love writing TypeScript and building fun experiments
 - 💬 Ask me about anything [here](https://github.com/trannam1304/trannam1304/issues)
 
-### 🤖 AI, LLM & RAG Stack
-- **Frameworks & Libs:** LangChain, LlamaIndex, OpenAI / Anthropic APIs, Hugging Face
-- **Vector DBs & Embeddings:** ChromaDB, Pinecone, Qdrant, pgvector
-
 ### 💻 Core Software Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,spring,mysql,postgres,docker,git" />
